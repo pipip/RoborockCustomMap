@@ -27,6 +27,10 @@ calibration_source:
 6. You can hit Generate Room Configs to allow for cleaning of rooms. It might generate extra keys, so check the yaml and make sure there are no extra 'predefined_sections'
 
 
+### Alternative/optional
+
+Once you set up this integration, you can generate a static config in the lovelace card, and theoretically, you should be able to use that code with your Roborock CORE integration. However, it wont stay up to date if the map calibrations change significantly, or rooms change. So I'd only do this when I was sure everything was good!
+
 ### Installation
 
 ### Installing via HACS
