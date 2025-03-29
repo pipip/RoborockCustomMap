@@ -1,5 +1,7 @@
 # Roborock Custom Map
 
+-- Changed min version to 2025.4.0beta9
+
 This allows you to use the core Roborock integration with the [Xiaomi Map Card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card)
 
 If you would like to support me, you can do so here:
